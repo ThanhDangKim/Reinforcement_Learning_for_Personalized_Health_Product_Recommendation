@@ -1,0 +1,11 @@
+# Ignore data files
+OriginalDatasets/Health_and_Personal_Care.json
+OriginalDatasets/meta_Health_and_Personal_Care.jsonl
+ProcessedDatasets/combined_product_data.json
+ProcessedDatasets/filtered_reviews.json
+Ref_Hel.py
+Ref1.py
+
+# Ignore temp folders
+.venv/
+
