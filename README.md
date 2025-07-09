@@ -115,6 +115,7 @@ The primary objective is to develop a **reinforcement learning-based recommendat
 
 ## 🗂️ Project Structure
 
+```plaintext
 📦 RL-Recommendation-System
 ┣ 📁 agents/
 ┃ ┣ 📁 Health_and_Personal_Care_DQN/ # Deep Q-Network model
@@ -141,6 +142,7 @@ The primary objective is to develop a **reinforcement learning-based recommendat
 ┃
 ┣ 📜 requirements.txt # Required packages
 ┗ 📜 README.md # Project documentation
+```
 
 ## ✍️ Author
 
